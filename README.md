@@ -1,5 +1,18 @@
-# مرحباً بك في بروفايل GitHub الخاص بي! 👋
+<div align="center">
+مرحباً بك في بروفايل GitHub الخاص بي! 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Akram+Hamad+Eljack;IT+Support+%26+Network+Specialist;System+Administrator+%26+DFIR+Enthusiast;Saudi+Council+of+Engineers+Certified" alt="Typing SVG" />
+</a>
 
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrameljack)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/akramelamin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramelaminah@gmail.com)
+</div>
+### 👨‍💻 `whoami --verbose`
+
+```yaml
+identity:
 أنا **أكرم حمد الجاك الأمين**، متخصص في دعم تكنولوجيا المعلومات والشبكات، إدارة أنظمة ويندوز سيرفر، وأنظمة المراقبة (CCTV)، مع شغف مستمر بتطوير مهاراتي في أمن المعلومات وشبكات المؤسسات. مقيم حالياً في الرياض، المملكة العربية السعودية>
 
 ---
@@ -21,7 +34,7 @@
 | **الدعم الفني** | الدعم التقني للمستوى الثاني والثالث، التشخيص المتقدم للأجهزة والبرمجيات |
 
 ---
-
+focus_areas:
 ### 🏆 الشهادات والاعتمادات البارزة
 * 🛡️ **Fortinet:** FortiGate 7.4 Operator | Certified Associate & Fundamentals | NSE 1, 2, 3
 * 🌐 **Cisco Networking Academy:** Ethical Hacker | Introduction to Cybersecurity
